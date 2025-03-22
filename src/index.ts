@@ -1,1 +1,1 @@
-export { sum } from './sum'
+document.body.textContent = "asdfasdf";
