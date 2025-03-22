@@ -1,7 +1,7 @@
 {
   "name": "vite-vanilla-library",
-  "version": "0.0.0",
   "type": "module",
+  "version": "0.0.0",
   "exports": {
     ".": {
       "import": "./dist/vite-vanilla-library.js",
